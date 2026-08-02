@@ -1,0 +1,11 @@
+{
+  "name": "wanderer-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Root helper package.json that forwards npm commands to the wanderer-web project",
+  "scripts": {
+    "start": "npm --prefix wanderer-web start",
+    "install": "npm --prefix wanderer-web install",
+    "dev": "npm --prefix wanderer-web run dev"
+  }
+}
