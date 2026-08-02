@@ -200,7 +200,7 @@ function Home() {
         {/* Hero */}
         <div style={styles.hero}>
           <div style={styles.heroInner}>
-            <div style={styles.badge}>✈️ AI Travel Planner</div>
+            <div style={styles.badge}>🗺️ Wanderer</div>
             <h1 style={styles.h1}>Wander Smarter,<br />Not Harder</h1>
             <p style={styles.sub}>
               Pick a city, pick your vibe — get a full personalised
